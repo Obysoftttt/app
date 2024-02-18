@@ -1,0 +1,18 @@
+[project]
+name = "XMedia"
+version = "1.0.1"
+#dependencies = [
+#  "flet",
+#  "aiohttp",
+#  "asyncio",
+#]
+requires-python = ">=3.11.6"
+authors = [
+  {name = "KeimaSenpai", email = "senpaikeima@gmail.com"},
+]
+maintainers = [
+  {name = "KeimaSenpai", email = "senpaikeima@gmail.com"}
+]
+description = "Descarga y ve peliculas free"
+readme = "README.md"
+license = {file = "LICENSE"}
